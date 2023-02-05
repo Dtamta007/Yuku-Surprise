@@ -103,4 +103,14 @@ body{
     .text-box{
         width: 100%;
     }
+    .bottom-part{
+        width: 100%;
+        margin: auto;
+        background-color: #fff;
+        padding:2rem;
+        border-radius: 10px;
+    }
+    .carousel-item img{
+        width: 100% !important;
+    }
 }
